@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucatonini
 - 👀 I’m interested in opensource projects and anything to do with space
-- 🌱 I’m currently learning Python and Assembly
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me www.lrtonini.com
 
 <!---
